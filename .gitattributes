@@ -1,0 +1,12 @@
+# Text file normalization
+*.gif binary
+src/** linguist-detectable
+*.map linguist-generated
+public/*.html linguist-vendored
+*.jpg binary
+*.svg text
+public/index.html linguist-vendored
+Cargo.lock linguist-generated
+*.bat text eol=crlf
+*.min.css linguist-generated
+# eof 957bf5c0
